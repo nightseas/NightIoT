@@ -1,0 +1,16 @@
+"NightIoT uBus Conectivity ESP8266  Revised: Sunday, April 04, 2021",,,,,
+By Xiaohai Li (haixiaolee@gmail.com)          Revision: V100,,,,,
+,,,,,
+Item,Part,Description,PCB Footprint,Quantity,Reference
+1,1uF,Capacitor 20% 0603 1uF,C0603,1,C7
+2,0.1uF,Capacitor 20% 0603 0.1uF,C0603,1,C8
+3,uBUS_CON_A,Header 2.54mm 8 Pin,SIP8,1,J1
+4,uBUS_CON_B,Header 2.54mm 8 Pin,SIP8,1,J2
+5,ISP CON,Header 2.54mm 5 Pin,SIP5,1,J3
+6,BLUE,LED 0603 Blue,LED0603,1,LD2
+7,GRN,LED 0603 Green,LED0603,1,LD3
+8,NPN_9013,Transistor NPN MMBT9013 SOT23,SOT23,2,"Q1,Q2"
+9,10K,Resistor 1% 0603 10Kohm,R0603,5,"R6,R7,R8,R9,R11"
+10,1K,Resistor 1% 0603 1Kohm,R0603,1,R10
+11,560R,Resistor 1% 0603 560ohm,R0603,1,R12
+12,ESP12F,Module WiFi ESP12F ESP8266 SMD,ESP12F,1,U3

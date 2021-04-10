@@ -1,0 +1,22 @@
+"NightIoT uBus Sensor AMG8833 & AM412  Revised: Monday, April 05, 2021",,,,,
+By Xiaohai Li (haixiaolee@gmail.com)          Revision: V100,,,,,
+,,,,,
+Item,Part,Description,PCB Footprint,Quantity,Reference
+1,0.1uF,Capacitor 20% 0603 0.1uF,C0603,2,"C1,C5"
+2,10uF,Capacitor 20% 0805 10uF,C0805,2,"C2,C6"
+3,2.2uF,Capacitor 20% 0603 2.2uF,C0603,1,C3
+4,1uF,Capacitor 20% 0603 1uF,C0603,1,C4
+5,uBUS_CON_A,Header 2.54mm 8 Pin,SIP8,1,J1
+6,uBUS_CON_B,Header 2.54mm 8 Pin,SIP8,1,J2
+7,GRN,LED 0603 Green,LED0603,1,LD1
+8,0R,Resistor 1% 0603 0ohm,R0603,2,"R2,R10"
+9,4.7K,Resistor 1% 0603 4.7Kohm,R0603,3,"R3,R5,R7"
+10,560R,Resistor 1% 0603 560ohm,R0603,1,R8
+11,22R,Resistor 1% 0603 22ohm,R0603,1,R9
+12,AM412,Sensor PIR AM412 4 Pin PTH,AM412_4P,1,U1
+13,AMG8833,Sensor Thermal Array AMG8833 14 Pin SMD,AMG8833_SMD_14P,1,U2
+,,,,,
+Not Mounted Parts,,,,,
+,,,,,
+Item,Part,Description,PCB Footprint,Quantity,Reference
+1,4.7K NC,Resistor 1% 0603 4.7Kohm,R0603,2,"R4,R6"
